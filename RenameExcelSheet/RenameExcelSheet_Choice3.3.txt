@@ -1,0 +1,3 @@
+Sub RenameSheet(UserChoice3)
+Sheets("Sheet4").Name = UserChoice3
+End Sub

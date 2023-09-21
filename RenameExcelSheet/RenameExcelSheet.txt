@@ -1,0 +1,3 @@
+Sub RenameSheet()
+Sheets("Sheet1").Name = "All Profiles"
+End Sub

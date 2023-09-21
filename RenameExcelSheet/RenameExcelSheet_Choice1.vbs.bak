@@ -1,0 +1,4 @@
+Function RenameSheet()
+On Error Resume Next
+Sheets(Sheet2).Name = "UserChoice"
+End Function
